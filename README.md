@@ -1,3 +1,3 @@
 # Identicon
 
-Project developed in Elixir Summer Event.
+Projeto desenvolvido em um curso realizado por Stephen Grider.
